@@ -341,6 +341,11 @@ ul.sub-menu {
   color: #fff;
 }
 
+.image-shrink
+{
+  width: 260 px;
+  height: 80 px;
+}
 .fa-angle-down{
   padding-left: 5px; 
 }
